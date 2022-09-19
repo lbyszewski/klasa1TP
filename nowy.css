@@ -1,0 +1,18 @@
+table {
+    border: solid;
+    text-align: center;
+    color: black;
+    background-color: chocolate;
+}
+.in {
+    color: green;
+}
+.out {
+    color: blue;
+}
+.put {
+    color: blueviolet;
+}
+.a {
+    color: aqua;
+}
